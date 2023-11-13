@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mof-demo/static/css/main.3ad1f4bc.css",
+    "main.js": "/mof-demo/static/js/main.e532ebd4.js",
+    "static/js/787.bbe98192.chunk.js": "/mof-demo/static/js/787.bbe98192.chunk.js",
+    "index.html": "/mof-demo/index.html",
+    "main.3ad1f4bc.css.map": "/mof-demo/static/css/main.3ad1f4bc.css.map",
+    "main.e532ebd4.js.map": "/mof-demo/static/js/main.e532ebd4.js.map",
+    "787.bbe98192.chunk.js.map": "/mof-demo/static/js/787.bbe98192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad1f4bc.css",
+    "static/js/main.e532ebd4.js"
+  ]
+}
